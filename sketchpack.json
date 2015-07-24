@@ -1,0 +1,6 @@
+{
+  "name": "Radius",
+  "version": "1.0.0",
+  "description": "Sketch app plugin to increase or decrease the corner radius of rectangle shapes in increments of 1 or 10.",
+  "tags": ["radius", "rounded", "corner"]
+}
