@@ -1,5 +1,5 @@
-Radius
-======
+Corner Radius Shortcuts
+=======================
 
 Sketch plugin to increase or decrease the corner radius on rectangle shapes using keyboard shortcuts.
 
@@ -31,6 +31,8 @@ _NOTE: This requires [GitHub for Mac](https://mac.github.com) to be installed._
 * Negative values are allowed even though these have no effect
 
 ## Acknowledgements
+* Prompted by a question from [Oleg Kuroptiev](https://twitter.com/bass_blog)
+* Made to mirror the keyboard shortcuts for the rounded rectangle tool in Photoshop
 * Based on examples from [Sketch Plugins Cookbook](https://github.com/turbobabr/Sketch-Plugins-Cookbook)
 
 ##Contact
