@@ -1,0 +1,47 @@
+{
+  "commands" : [
+    {
+      "script" : "Increase Radius.cocoascript",
+      "handler" : "onRun",
+      "shortcut" : "cmd ]",
+      "name" : "Increase Radius",
+      "identifier" : "increase_radius"
+    },
+    {
+      "script" : "Decrease Radius.cocoascript",
+      "handler" : "onRun",
+      "shortcut" : "cmd [",
+      "name" : "Decrease Radius",
+      "identifier" : "decrease_radius"
+    },
+    {
+      "script" : "Increase Radius by 10.cocoascript",
+      "handler" : "onRun",
+      "shortcut" : "cmd shift ]",
+      "name" : "Increase Radius by 10",
+      "identifier" : "increase_radius_by_10"
+    },
+    {
+      "script" : "Decrease Radius by 10.cocoascript",
+      "handler" : "onRun",
+      "shortcut" : "cmd shift [",
+      "name" : "Decrease Radius by 10",
+      "identifier" : "decrease_radius_by_10"
+    }
+  ],
+  "menu" : {
+    "items" : [
+      "increase_radius",
+      "decrease_radius",
+      "increase_radius_by_10",
+      "decrease_radius_by_10"
+    ],
+    "title" : "Corner Radius"
+  },
+  "identifier" : "nl.arjenvr.sketch.radius",
+  "version" : "1.1",
+  "description" : "Increase or decrease the corner radius on rectangle shapes using keyboard shortcuts.",
+  "homepage" : "https://github.com/arjenvr/sketch-radius",
+  "author" : "Arjen van Reeven",
+  "name" : "Corner Radius Shortcuts"
+}

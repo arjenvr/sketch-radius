@@ -1,0 +1,13 @@
+// Increase corner radius by 10
+
+var onRun = function(context) {
+  var layer = context.selection.firstObject();
+  if(layer && layer.isKindOfClass(MSShapeGroup)) {
+    var shape=layer.layers().firstObject();
+    if(shape && shape.isKindOfClass(MSRectangleShape)) {
+      var radius=shape.cornerRadiusFloat();
+      var newRadius=radius + 10;
+      shape.cornerRadiusFloat=newRadius;
+    }
+  }
+}

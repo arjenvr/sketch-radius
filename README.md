@@ -1,7 +1,7 @@
-Corner Radius Shortcuts
-=======================
+Corner Radius Shortcuts plugin for Sketch
+=========================================
 
-Sketch plugin to increase or decrease the corner radius on rectangle shapes using keyboard shortcuts.
+Increase or decrease the corner radius on rectangle shapes using keyboard shortcuts.
 
 ![Sketch Radius Demo](https://github.com/arjenvr/sketch-radius/raw/master/sketch-radius-demo.gif)
 
@@ -17,7 +17,7 @@ Sketch plugin to increase or decrease the corner radius on rectangle shapes usin
 ##Installation
 
 ### Download and extract ZIP
-1. [Download the ZIP file containing Radius](https://github.com/arjenvr/sketch-radius/archive/master.zip)
+1. [Download the ZIP file containing Corner Radius Shortcuts](https://github.com/arjenvr/sketch-radius/archive/master.zip)
 2. Copy the contents to the plugin folder (Open up Sketch, go to `Plugins` › `Reveal Plugins Folder…` to open it.)
 
 ### Using GitHub for Mac
@@ -32,8 +32,9 @@ _NOTE: This requires [GitHub for Mac](https://mac.github.com) to be installed._
 
 ## Acknowledgements
 * Prompted by a question from [Oleg Kuroptiev](https://twitter.com/bass_blog)
-* Made to mirror the keyboard shortcuts for the rounded rectangle tool in Photoshop
+* Inspired by the keyboard shortcuts for the rounded rectangle tool in Photoshop
 * Based on examples from [Sketch Plugins Cookbook](https://github.com/turbobabr/Sketch-Plugins-Cookbook)
+* [Round Rects Are Everywhere!](http://www.folklore.org/StoryView.py?story=Round_Rects_Are_Everywhere.txt)
 
 ##Contact
 * [@arjenvr](https://www.twitter.com/arjenvr) on Twitter
